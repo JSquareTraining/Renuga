@@ -1,0 +1,30 @@
+C:\Users\HP\source\repos\Event host\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\source\repos\Event host\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\source\repos\Event host\bin\Debug\net8.0\Event host.staticwebassets.runtime.json
+C:\Users\HP\source\repos\Event host\bin\Debug\net8.0\Event host.exe
+C:\Users\HP\source\repos\Event host\bin\Debug\net8.0\Event host.deps.json
+C:\Users\HP\source\repos\Event host\bin\Debug\net8.0\Event host.runtimeconfig.json
+C:\Users\HP\source\repos\Event host\bin\Debug\net8.0\Event host.dll
+C:\Users\HP\source\repos\Event host\bin\Debug\net8.0\Event host.pdb
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\Event host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\Event host.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\Event host.AssemblyInfo.cs
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\Event host.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\Event host.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\Event host.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\Event host.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\staticwebassets\msbuild.Event host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\staticwebassets\msbuild.build.Event host.props
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Event host.props
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Event host.props
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\scopedcss\bundle\Event host.styles.css
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\scopedcss\projectbundle\Event host.bundle.scp.css
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\Event host.dll
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\refint\Event host.dll
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\Event host.pdb
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\Event host.genruntimeconfig.cache
+C:\Users\HP\source\repos\Event host\obj\Debug\net8.0\ref\Event host.dll

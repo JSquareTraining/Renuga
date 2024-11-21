@@ -1,0 +1,142 @@
+﻿body {
+}
+*{
+    padding:0;
+    margin:0;
+    box-sizing:content-box;
+}
+
+.first {
+    background-image: url('path-to-image.jpg');
+    background-size: contain;
+    background-position: center;
+    color: #ffffff;
+}
+
+    .hero h1 {
+        font-size: 3rem;
+        font-weight: bold;
+    }
+
+.navbar-brand {
+    color: white;
+    font-family: 'Sans Serif Collection';
+    font-weight:400;
+    font-size: 1.375rem;
+    line-height: 1.75rem;
+    letter-spacing: normal;
+    margin: 8px 0;
+    text-align: center;
+}
+.navbar-nav {
+    font-size: 1.3rem;
+    line-height: 1.2;
+    text-rendering: optimizelegibility;
+    
+    font-weight:300;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    font-family: EmberDisplay, sans-serif;
+}   
+.suthahar{
+    
+    font-family:'Sans Serif Collection';
+    font-size:20px;
+    letter-spacing:0.15rem;
+    text-align:center;
+}
+
+
+  
+
+
+
+
+
+/*
+.nav-item2:hover{
+    width: 65px;
+    height:30px;
+    border-radius:35px;
+     background: linear-gradient(50deg,#ff006e,#0026ff);
+}
+*/
+
+.about {
+    height: 200px; 
+    background-color: #080414;
+    color:white; 
+    font-size:1.8rem;
+    line-height: 1.2;
+    left:0;
+    top:100%;
+    letter-spacing: -.014rem;
+    font-family:'Sans Serif Collection';
+    visibility:inherit;
+    
+
+}
+.Speakers {
+    height: 50px;
+    text-align:left;
+    
+
+    color: white;
+    font-size: 1.8rem;
+    line-height: 1.2;
+    padding:2%;
+    font-weight:bolder;
+    font-family: 'Sans Serif Collection';
+    visibility: inherit;
+}
+.btn{
+    height:60px;
+    width:120px;
+}
+/*#video-parent {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+} 
+#my video
+{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    pointer-events:none;*/
+
+.box
+{
+    width:100%;
+    height:1270PX;
+    background:linear-gradient(50deg,#b6ff00,#0026ff,#ff006e,#b200ff);
+    background-size:300% 300%;
+    animation: color 12s ease-in-out infinite;
+     
+}
+@keyframes color{
+    0%{
+        transform-box:border-box;
+        }
+    50% {
+        background-position: 100% 50%;
+    }  
+    100% {
+        background-position: 0 50%
+    }
+    
+}
+
+
+
+
+   
+
+    
+    
+
+

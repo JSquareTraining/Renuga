@@ -1,0 +1,111 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+/**{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Roboto condensed,sans-serif";
+}
+body
+{
+    width:100px;
+    height:100vh;
+    display:grid;
+    place-items:center;*/
+
+.container1 {
+    width: 300px;
+    height: 60px;
+    background-color:transparent;
+    box-shadow: rgba(50,50,93,0.25)0px 2px 5px -1px,rgba(0,0,0,0.3)0px 1px 3px -1px;
+    border-radius: 100px;
+    overflow: hidden;
+    position:relative;
+    left:50%;
+    
+    
+}
+.border1{
+    width:300px;
+    height:60px;
+    background:linear-gradient(45deg,#ff00dc,#040724,#ff006e);
+    animation-name:rotate;
+    animation-duration:2s;
+    animation-iteration-count:infinite;
+    animation-timing-function:linear;
+
+}
+@keyframes rotate{
+    from {
+        transform: rotate(0 deg);
+    }
+    to{
+        transform:rotate(360deg)
+    }
+}
+button{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    width:290px;
+    height:50px;
+    border-radius:50px;
+    border:none;
+    background-color:yellow;
+    font-family:'Sans Serif Collection';
+    font-size:20PX;
+    font-weight:bold;
+}
+.main{
+    float:left;
+    width:100%;
+    
+    
+}
+.cards {
+    width: 40%;
+    background-color: #040724;
+    /*border-radius:5px;
+    box-shadow:2px 2px 10px gray;*/
+    color:white;
+    display: inline-block;
+    margin: 0px 0px 0px 90px;
+}
+.cards:hover{
+    box-shadow: 2px 2px 10px pink;
+}
+.image img{
+    width:100%;
+    border-radius:5px;
+    border-top-right-radius:5px;
+    border-top-left-radius:5px;
+    
+}
+.title {
+    text-align:left;
+    font-size:1.8rem;
+    line-height: 1.2;
+    letter-spacing: .2rem;
+    font-weight:lighter;
+    unicode-bidi:isolate;
+   font-family:'Sans Serif Collection';
+   margin:30px;
+   margin-inline-end:0;
+   text-rendering:optimizeLegibility;
+   position:relative;
+   
+}
+
+.discrp {
+    text-align: center;
+    font-family: sans-serif 'Sans Serif Collection';
+    font-size: 1.1rem;
+    font-weight: lighter;
+    letter-spacing: .2rem;
+    line-height: 1.6rem;
+    display: inline;
+}
+.text-color {
+     
+   
+}
